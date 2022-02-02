@@ -1,0 +1,5 @@
+﻿  input.cpp
+C:\Users\expte\Desktop\ДЗ\С++\Задание 11\linear search\linear search\input.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.cpp
+  Создание кода...
+  linear search.vcxproj -> C:\Users\expte\Desktop\ДЗ\С++\Задание 11\linear search\x64\Debug\linear search.exe
